@@ -1,0 +1,69 @@
+{
+  "global": {
+    "setting": "Cài đặt",
+    "homepage": "Trang chủ",
+    "myBooking": "Đặt chỗ",
+    "promotions": "Ưu đãi",
+    "account": "Tài khoản",
+    "bookFlight": "Đặt vé máy bay",
+    "bookHotel": "Đặt khách sạn",
+    "search": "Tìm kiếm",
+    "next": "Tiếp tục"
+  },
+  "setting": {
+    "themeSetting": "Cài đặt giao diện",
+    "themeMode": "Chế độ",
+    "template": "Phong cách giao diện",
+    "swapColors": "Đổi màu",
+    "persistenceSetting": "Lưu trữ",
+    "persistenceDescriptionSetting": "Bạn có thể sử dụng Memory để lưu trữ dữ liệu tạm thời hoặc Hive & Shared Persistences để ghi nhớ dữ liệu lâu dài",
+    "language": "Ngôn ngữ"
+  },
+  "flight": {
+    "ROUNDTRIP": "Khứ hồi",
+    "ONEWAY": "Một chiều",
+    "flightDirection": {
+      "departure": "Chuyến đi",
+      "return": "Chuyến về",
+      "departure_ssr": "Hành lý chuyến đi",
+      "return_ssr": "Hành lý chuyến về"
+    },
+    "formSearch": {
+      "departure": "Nơi đi",
+      "destination": "Nơi đến",
+      "departureDate": "Ngày đi",
+      "chooseDepartureDate": "Chọn ngày đi",
+      "chooseReturnDateDate": "Chọn ngày về",
+      "returnDate": "Ngày về",
+      "adult": "Người lớn",
+      "child": "Trẻ em (2 - 12 tuổi)",
+      "infant": "Em bé (dưới 2 tuổi)",
+      "btnSearch": "Tìm kiếm chuyến bay",
+      "gtdSupplier": "<div style='text-align: center'>Vé máy bay cung cấp bởi <span style='color: #121826'>Gotadi</span> <br> Thông tin vé máy bay vui lòng liên hệ 1900-9002</div>",
+      "recentSearch": "Chuyến bay gần nhất",
+      "choose": {
+        "departure": "Chọn điểm đi",
+        "destination": "Chọn điểm đến"
+      }
+    },
+    "searchResult": {
+      "departure": "Chuyến bay đi",
+      "return": "Chuyến bay về"
+    }
+  },
+  "checkout": {
+    "travellerInfo": "Thông tin khách hàng",
+    "flightInfo": "Thông tin chuyến bay",
+    "gender": "Giới tính",
+    "dob": "Ngày sinh",
+    "setContactInfo": "Đặt làm thông tin liên hệ",
+    "baggageDeparture": "Hành lý chuyến đi",
+    "baggageReturn": "Hành lý chuyến về",
+    "totalAmount": "Tổng tiền"
+  },
+  "bookingResult": {
+    "flight": {
+      "title": "Chi tiết chuyến bay"
+    }
+  }
+}

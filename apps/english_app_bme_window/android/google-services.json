@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "894206314826",
+    "project_id": "beme-english-3df18",
+    "storage_bucket": "beme-english-3df18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894206314826:android:05e5ed7881176f543c19b3",
+        "android_client_info": {
+          "package_name": "com.dvt.english_app_bme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARb9vUKvHE0Mk8bE7dFHBx4RjG0us0Eng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
